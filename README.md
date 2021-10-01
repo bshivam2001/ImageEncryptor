@@ -7,3 +7,6 @@ This program uses AES to encrypt images to produce an illegible image, which can
 3. Build and run project in QtCreator
 
 For QMake follow [this guide](https://doc.qt.io/archives/qt-4.8/qmake-running.html)
+
+### How to use the program
+<img src="/img/steps.png" alt="Follow these steps" style="height: 500px;"/>
